@@ -17,9 +17,8 @@
 
 
 ### Connect with Me :
-/
-<a href="https://linkedin.com/in/abdelkader-bouchouicha-0042ab123" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/bouchouichaabdelkader" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abdelkader-bouchouicha-0042ab123" target="_blank"><img src="https://img.shields.io/badge/-Abdelkader%20Bouchouicha-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/bouchouichaabdelkader" target="_blank"><img src="https://img.shields.io/badge/-Abdelkader%20Bouchouicha-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
