@@ -12,8 +12,6 @@
 </p> 
 
 - 🏢 I'm a Full-Stack Developer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
